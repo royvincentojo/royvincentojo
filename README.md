@@ -9,7 +9,7 @@ NC II Holder
 -computer System Servicing (CSS)
 SQL and Relational Databeses 101
 -
-https://courses.cognitiveclass.ai/certificates/810d1bab3911440dac7141a31ea139ed
+[View](https://courses.cognitiveclass.ai/certificates/810d1bab3911440dac7141a31ea139ed)
 ## Skillsets
 Java — Basic to intermediate; able to build simple applications or system features
 HTML / CSS — Can create structured, clean, and responsive web pages
