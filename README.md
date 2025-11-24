@@ -1,9 +1,6 @@
 
 
-## Name
-Roy Vincent Ojo
-
-## Education
+## Roy Vincent Ojo
 🎓 2nd Year BS Information Technology Studend 
 New Era Universty - Quezon City
 
