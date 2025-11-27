@@ -7,7 +7,9 @@ New Era Universty - Quezon City
 ## Certifications
 
 [SQL and Relational Databeses 101](https://courses.cognitiveclass.ai/certificates/810d1bab3911440dac7141a31ea139ed)
- [Oracle Cloud Infrastructure] (https://catalog-education.oracle.com/pls/certview/sharebadge?id=3927CBF9C812D77D82F5E8C32EA2A3D6F36B428A444F15DFBC1BD3B9F11BC15C)
+
+[Oracle Cloud Infrastructure](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3927CBF9C812D77D82F5E8C32EA2A3D6F36B428A444F15DFBC1BD3B9F11BC15C)
+
 NC II Holder
 -computer System Servicing (CSS) 
 Certificate no:24175102001835
