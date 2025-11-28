@@ -10,6 +10,7 @@ New Era Universty - Quezon City
 
 [Oracle Cloud Infrastructure](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3927CBF9C812D77D82F5E8C32EA2A3D6F36B428A444F15DFBC1BD3B9F11BC15C)
 
+[Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=12523866957567A422EC5AD8B15623E44C4FC521C37178DA270A6902A65ECE03)
 NC II Holder
 -computer System Servicing (CSS) 
 Certificate no:24175102001835
