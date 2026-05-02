@@ -20,6 +20,7 @@
 
 👨‍💻-[OCI AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FCB6EC7AC0F6C74028141B799580F41E83B95F74CFFFC1F80828CEC80C19EEE8) 
 
+[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/7392c17fbe0646cb8f807af88bba3f09)
 NC II Holder
 -computer System Servicing (CSS) 
 Certificate no:24175102001835
