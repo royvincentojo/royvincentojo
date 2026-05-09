@@ -4,6 +4,10 @@
  
 
 
+## 🚀 About Me
+I am Roy Vincent Ojo, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
+--
+
 | Grade Level | Institution | Date |
 | :--- | :--- | :--- |
 |🎓 College | New Era University Bachelor of Science in Computer Science | [2025] - [Present or End Year] |
@@ -24,7 +28,7 @@
 
 NC II Holder
 -computer System Servicing (CSS) 
-Certificate no:24175102001835
+Certificate no:2417510200****
 
 
 ## Skillsets
@@ -44,3 +48,19 @@ Detail-Oriented — Produces clean code and organized outputs
 Problem Solver — Analyzes logic issues and provides effective solutions
 
 Team Player — Collaborates well in group 
+
+
+---
+
+## 📫 Reach Me
+- Email: Vinccyrus07@gmail.com
+- Linkedin: [Roy Vincent Ojo](https://ph.linkedin.com/in/roy-vincent-c-ojo-942888397)
+
+---
+
+## ✨ Fun Fact
+I enjoy exploring new technologies and continuously improving my development and database management skills.
+
+
+
+
